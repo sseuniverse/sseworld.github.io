@@ -15,11 +15,9 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Code Editor
+    details: SSE Code Editor made by SSE
+  - title: SSE PDF Viewer
+    details: SSE PDF Viewer made by SSE with Love
 ---
 

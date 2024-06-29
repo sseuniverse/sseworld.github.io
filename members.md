@@ -12,7 +12,7 @@ import {
 
 const members = [
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: 'https://lh3.googleusercontent.com/a/ACg8ocKzwoARsCaHJGLlSjSH1KxvH5BsXayEizXYzyEbZKs-u52RQHU=s288-c-no',
     name: 'SSE World',
     title: 'Creator',
     links: [
@@ -21,11 +21,11 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: 'https://lh3.googleusercontent.com/a/ACg8ocKzwoARsCaHJGLlSjSH1KxvH5BsXayEizXYzyEbZKs-u52RQHU=s288-c-no',
     name: 'SSE Official',
     title: 'Developer',
     links: [
-      { icon: 'github', link: 'https://github.com/ssewoffiial' },
+      { icon: 'github', link: 'https://github.com/ssewofficial' },
       // { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
     ]
   },
