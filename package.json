@@ -15,5 +15,8 @@
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "vitepress": "^1.2.3"
+  },
+  "dependencies": {
+    "@sakitam-gis/vitepress-playground": "^1.2.0"
   }
 }
